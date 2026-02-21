@@ -10,3 +10,15 @@ Analytical professional focused on building scalable data pipelines and predicti
 ### 📈 Professional Focus
 - **Production ML:** Transitioning models from experimental notebooks to automated scripts.
 - **Data Engineering:** Designing reusable utility functions for data auditing and ETL.
+---
+
+
+### 📈 Progress Log
+- **Day 1:** Environment setup & Basic SQL Filters.
+- **Day 2:** Relational Algebra (Complex JOINs & Dictionary Mapping).
+- **Day 3:** Advanced Window Functions, Self-Joins, and O(log n) Algorithm Optimization.
+- **Next Milestone:** Advanced Pattern Matching (Regex) & Big Data Cleaning.
+
+### 🛠️ Tech Stack Developed
+- **SQL:** DENSE_RANK, Window Functions, Cross Joins.
+- **Python:** Two-Pointer Technique, Binary Search, Dictionary Frequency Mapping.
