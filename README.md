@@ -22,3 +22,4 @@ Analytical professional focused on building scalable data pipelines and predicti
 ### 🛠️ Tech Stack Developed
 - **SQL:** DENSE_RANK, Window Functions, Cross Joins.
 - **Python:** Two-Pointer Technique, Binary Search, Dictionary Frequency Mapping.
+**Day 4:** Advanced String Manipulation & Regex (SQL REGEXP & Python DP)
