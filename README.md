@@ -1,4 +1,4 @@
-# Hi, I'm Sharu | Data Scientist 🚀
+# Hi, I'm Sharath T E | Data Analyst | Applied Machine Learning & Experimentation. 🚀
 
 Analytical professional focused on building scalable data pipelines and predictive models. Specialized in transforming raw data into actionable insights through production-grade Python and SQL.
 
