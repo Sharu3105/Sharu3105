@@ -28,3 +28,8 @@ Analytical professional focused on building scalable data pipelines and predicti
 - **Day 4:** Advanced String Manipulation & Regex (SQL REGEXP).
 - **Day 5:** Optimization via Sliding Window Algorithms & CTEs.
 - **Day 6:** Matrix Transposition, O(n^2) Two-Pointer Logic, and Correlated Subqueries.
+
+- ## 🏆 Week 1 Milestone: The Foundation
+- **Total Problems:** 35+ (SQL & Python)
+- **Key Concepts:** Window Functions, Sliding Window, Two-Pointers, Regex, Matrix Rotation, and Binary Search.
+- **Toolkit:** Built `cleaning_utils.py` with 5+ production-grade data tools.
