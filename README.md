@@ -41,3 +41,13 @@ Analytical professional focused on building scalable data pipelines and predicti
 ### **Recent Milestones**
 * **Day 7:** FAANG Consolidation - Mastered Binary Search & `DENSE_RANK`.
 * **Day 8:** Implemented O(n) Bucket Sort for frequency analysis and SQL Running Totals for capacity modeling.
+
+* ### 🛠️ Technical Skills Inventory (Week 1 & 2)
+
+| Category | Tools & Techniques | Status |
+| :--- | :--- | :--- |
+| **Data Engineering** | SQL Window Functions, CTEs, Subqueries, Regex | Mastered |
+| **Algorithmic Logic** | Two-Pointers, Sliding Window, Binary Search, Bucket Sort | Mastered |
+| **Mathematics** | Matrix Transposition, Z-Score Normalization, Min-Max Scaling | Mastered |
+| **DS Tooling** | Performance Profiling (Decorators), Feature Selection, Data Imputation | In Progress |
+| **Languages** | Python (Advanced), SQL (PostgreSQL/MySQL), Markdown | Daily Use |
