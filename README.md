@@ -33,3 +33,11 @@ Analytical professional focused on building scalable data pipelines and predicti
 - **Total Problems:** 35+ (SQL & Python)
 - **Key Concepts:** Window Functions, Sliding Window, Two-Pointers, Regex, Matrix Rotation, and Binary Search.
 - **Toolkit:** Built `cleaning_utils.py` with 5+ production-grade data tools.
+
+- ## 🚀 Road to Data Science (Day 8 / 90)
+- **Current Streak:** 8 Days (Week 2 Started) 🟩
+- **Focus:** Exploratory Data Analysis (EDA) & High-Efficiency Frequency Analysis.
+
+### **Recent Milestones**
+* **Day 7:** FAANG Consolidation - Mastered Binary Search & `DENSE_RANK`.
+* **Day 8:** Implemented O(n) Bucket Sort for frequency analysis and SQL Running Totals for capacity modeling.
