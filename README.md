@@ -46,8 +46,10 @@ Analytical professional focused on building scalable data pipelines and predicti
 
 | Category | Tools & Techniques | Status |
 | :--- | :--- | :--- |
-| **Data Engineering** | SQL Window Functions, CTEs, Subqueries, Regex | Mastered |
+| **Advanced Data Engineering** | SQL Window Functions, CTEs, Subqueries, Regex | Mastered |
 | **Algorithmic Logic** | Two-Pointers, Sliding Window, Binary Search, Bucket Sort | Mastered |
 | **Mathematics** | Matrix Transposition, Z-Score Normalization, Min-Max Scaling | Mastered |
-| **DS Tooling** | Performance Profiling (Decorators), Feature Selection, Data Imputation | In Progress |
+| **Advanced DS Tooling** | Performance Profiling (Decorators), Feature Selection, Data Imputation | In Progress |
 | **Languages** | Python (Advanced), SQL (PostgreSQL/MySQL), Markdown | Daily Use |
+
+Day 9: Solved 'Quiet Students' (Hard) using Multi-Level Window Ranking. Optimized Array Products using Prefix/Suffix logic ($O(n)$).
