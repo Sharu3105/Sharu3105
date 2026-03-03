@@ -50,6 +50,8 @@ Analytical professional focused on building scalable data pipelines and predicti
 | **Algorithmic Logic** | Two-Pointers, Sliding Window, Binary Search, Bucket Sort | Mastered |
 | **Mathematics** | Matrix Transposition, Z-Score Normalization, Min-Max Scaling | Mastered |
 | **Advanced DS Tooling** | Performance Profiling (Decorators), Feature Selection, Data Imputation | In Progress |
-| **Languages** | Python (Advanced), SQL (PostgreSQL/MySQL), Markdown | Daily Use |
+| **Mastered Languages** | Python (Advanced), SQL (PostgreSQL/MySQL), Markdown | Daily Use |
 
 Day 9: Solved 'Quiet Students' (Hard) using Multi-Level Window Ranking. Optimized Array Products using Prefix/Suffix logic ($O(n)$).
+
+Day 10: Reached double digits! Mastered Self-Joins and O(n) Hash Map optimizations.
