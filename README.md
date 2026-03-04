@@ -55,3 +55,5 @@ Analytical professional focused on building scalable data pipelines and predicti
 Day 9: Solved 'Quiet Students' (Hard) using Multi-Level Window Ranking. Optimized Array Products using Prefix/Suffix logic ($O(n)$).
 
 Day 10: Reached double digits! Mastered Self-Joins and O(n) Hash Map optimizations.
+
+Day 11: Solved 'Minimum Window Substring' (Hard). Implemented SQL-based data purging and analytical string aggregation.
