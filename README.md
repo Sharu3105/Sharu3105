@@ -57,3 +57,5 @@ Day 9: Solved 'Quiet Students' (Hard) using Multi-Level Window Ranking. Optimize
 Day 10: Reached double digits! Mastered Self-Joins and O(n) Hash Map optimizations.
 
 Day 11: Solved 'Minimum Window Substring' (Hard). Implemented SQL-based data purging and analytical string aggregation.
+
+Day 12: Mastered Relational Division in SQL and Interval Merging for temporal data.
