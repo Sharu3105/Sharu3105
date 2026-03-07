@@ -59,3 +59,5 @@ Day 10: Reached double digits! Mastered Self-Joins and O(n) Hash Map optimizatio
 Day 11: Solved 'Minimum Window Substring' (Hard). Implemented SQL-based data purging and analytical string aggregation.
 
 Day 12: Mastered Relational Division in SQL and Interval Merging for temporal data.
+
+Day 13: Project Launch - Built 'Sentinel' Anomaly Detection Engine. Applied sliding window logic to real-time stream simulation.
