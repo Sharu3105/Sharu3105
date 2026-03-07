@@ -61,3 +61,5 @@ Day 11: Solved 'Minimum Window Substring' (Hard). Implemented SQL-based data pur
 Day 12: Mastered Relational Division in SQL and Interval Merging for temporal data.
 
 Day 13: Project Launch - Built 'Sentinel' Anomaly Detection Engine. Applied sliding window logic to real-time stream simulation.
+
+Built a Python traffic simulator for Project Sentinel. Integrated Advanced SQL pattern matching (Relational Division) for threat detection. [2026-03-07]
