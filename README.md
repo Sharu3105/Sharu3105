@@ -63,3 +63,15 @@ Day 12: Mastered Relational Division in SQL and Interval Merging for temporal da
 Day 13: Project Launch - Built 'Sentinel' Anomaly Detection Engine. Applied sliding window logic to real-time stream simulation.
 
 Built a Python traffic simulator for Project Sentinel. Integrated Advanced SQL pattern matching (Relational Division) for threat detection. [2026-03-07]
+
+Day 14: Engineered the 'Project Sentinel' Engine. Refined the anomaly detection logic using Pandas for high-throughput log parsing.
+
+Day 15: Implemented advanced filtering logic to categorize threats by severity levels (Low, Medium, High, Critical).
+
+Day 16: Automated daily threat report generation in CSV format, ensuring data persistence for long-term security auditing.
+
+Day 17: Visualized security intelligence using Matplotlib. Built a distribution dashboard to identify high-risk IP sources at a glance.
+
+Day 18: Developed a Real-Time Alerting System. Created `alert_system.py` to trigger immediate terminal warnings for 'Critical' severity threats.
+
+
