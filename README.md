@@ -74,4 +74,6 @@ Day 17: Visualized security intelligence using Matplotlib. Built a distribution 
 
 Day 18: Developed a Real-Time Alerting System. Created `alert_system.py` to trigger immediate terminal warnings for 'Critical' severity threats.
 
+Day 19: Built an automated HTML Reporting Engine. Integrated Bootstrap for dynamic web-based security dashboards.
+
 
