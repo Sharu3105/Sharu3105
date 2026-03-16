@@ -122,7 +122,7 @@ reporting across the fulfilment and logistics business.
 **B.E. Aeronautical Engineering**
 Mangalore Institute of Technology & Engineering · 2020–2024
 
-Relevant coursework: Linear Algebra, Statistical Inference, 
+Areas of Study: Linear Algebra, Statistical Inference, 
 Probability, Optimisation
 
 ---
