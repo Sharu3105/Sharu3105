@@ -1,79 +1,73 @@
-# Hi, I'm Sharath T E | Data Analyst | Applied Machine Learning & Experimentation. 🚀
+<h1 align="center">Hi, I'm Sharath T E 👋</h1>
 
-Analytical professional focused on building scalable data pipelines and predictive models. Specialized in transforming raw data into actionable insights through production-grade Python and SQL.
+<p align="center">
+  <b>Data Analyst</b> at Flipkart India Private Limited, Bengaluru<br>
+  Passionate about SQL, Python, and turning data into business decisions.<br>
+  Actively seeking Data Analyst roles at Google · Microsoft · Amazon
+</p>
 
-### 🛠 Tech Stack
-- **Languages:** Python (Advanced), SQL (PostgreSQL, BigQuery)
-- **Libraries:** Pandas, Scikit-Learn, NumPy, Matplotlib, Seaborn
-- **Tools:** Git, Docker, Jupyter, Google Cloud Platform (GCP)
-
-### 📈 Professional Focus
-- **Production ML:** Transitioning models from experimental notebooks to automated scripts.
-- **Data Engineering:** Designing reusable utility functions for data auditing and ETL.
 ---
 
+## 🙋 About Me
 
-### 📈 Progress Log
-- **Day 1:** Environment setup & Basic SQL Filters.
-- **Day 2:** Relational Algebra (Complex JOINs & Dictionary Mapping).
-- **Day 3:** Advanced Window Functions, Self-Joins, and O(log n) Algorithm Optimization.
-- **Next Milestone:** Advanced Pattern Matching (Regex) & Big Data Cleaning.
+- 💼 Currently working as a **Data Analyst at Flipkart India** (1.5 years)
+- 🔍 Focused on **operational analytics, KPI reporting, and business intelligence**
+- 🎯 Building skills in **SQL, Python (Pandas), Power BI, and Tableau**
+- 📍 Based in **Bengaluru, Karnataka**
+- 📫 Reach me at: **Latheshwar1412@gmail.com**
 
-### 🛠️ Tech Stack Developed
-- **SQL:** DENSE_RANK, Window Functions, Cross Joins.
-- **Python:** Two-Pointer Technique, Binary Search, Dictionary Frequency Mapping.
-**Day 4:** Advanced String Manipulation & Regex (SQL REGEXP & Python DP)
-- **Day 5:** Optimization via Sliding Window Algorithms & CTE Performance.
+---
 
-- **Day 4:** Advanced String Manipulation & Regex (SQL REGEXP).
-- **Day 5:** Optimization via Sliding Window Algorithms & CTEs.
-- **Day 6:** Matrix Transposition, O(n^2) Two-Pointer Logic, and Correlated Subqueries.
+## 🛠️ Skills
 
-- ## 🏆 Week 1 Milestone: The Foundation
-- **Total Problems:** 35+ (SQL & Python)
-- **Key Concepts:** Window Functions, Sliding Window, Two-Pointers, Regex, Matrix Rotation, and Binary Search.
-- **Toolkit:** Built `cleaning_utils.py` with 5+ production-grade data tools.
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | SQL (Advanced), Python (Pandas, NumPy, Matplotlib) |
+| **BI & Dashboards** | Excel (Advanced), Power BI (Learning), Tableau (Learning), Looker Studio |
+| **Analytics** | KPI Tracking, MIS Reporting, Funnel Analysis, Root Cause Analysis |
+| **Other** | Git, JIRA, Google Sheets, BigQuery (Learning) |
 
-- ## 🚀 Road to Data Science (Day 8 / 90)
-- **Current Streak:** 8 Days (Week 2 Started) 🟩
-- **Focus:** Exploratory Data Analysis (EDA) & High-Efficiency Frequency Analysis.
+---
 
-### **Recent Milestones**
-* **Day 7:** FAANG Consolidation - Mastered Binary Search & `DENSE_RANK`.
-* **Day 8:** Implemented O(n) Bucket Sort for frequency analysis and SQL Running Totals for capacity modeling.
+## 📁 Projects
 
-* ### 🛠️ Technical Skills Inventory (Week 1 & 2)
+### 🔹 SQL Business Case Study — Retail Analytics
+> PostgreSQL · Window Functions · CTEs
+- Solved 25+ business questions on a retail database schema
+- Topics: revenue trends, customer ranking, SLA analysis, rolling averages
+- 📎 [View Repository](#)
 
-| Category | Tools & Techniques | Status |
-| :--- | :--- | :--- |
-| **Advanced Data Engineering** | SQL Window Functions, CTEs, Subqueries, Regex | Mastered |
-| **Algorithmic Logic** | Two-Pointers, Sliding Window, Binary Search, Bucket Sort | Mastered |
-| **Mathematics** | Matrix Transposition, Z-Score Normalization, Min-Max Scaling | Mastered |
-| **Advanced DS Tooling** | Performance Profiling (Decorators), Feature Selection, Data Imputation | In Progress |
-| **Mastered Languages** | Python (Advanced), SQL (PostgreSQL/MySQL), Markdown | Daily Use |
+### 🔹 E-Commerce Funnel & Conversion Analysis
+> Python (Pandas, Seaborn) · Jupyter Notebook
+- Analysed 50K+ session data to identify drop-off points across purchase funnel
+- Performed cohort retention analysis across 6-week windows
+- 📎 [View Repository](#)
 
-Day 9: Solved 'Quiet Students' (Hard) using Multi-Level Window Ranking. Optimized Array Products using Prefix/Suffix logic ($O(n)$).
+### 🔹 Operations KPI Dashboard
+> Power BI · SQL · Excel
+- Built end-to-end KPI dashboard tracking fulfilment rate, SLA breach %, TAT
+- Modelled after real e-commerce operations reporting
+- 📎 [View Repository](#)
 
-Day 10: Reached double digits! Mastered Self-Joins and O(n) Hash Map optimizations.
+---
 
-Day 11: Solved 'Minimum Window Substring' (Hard). Implemented SQL-based data purging and analytical string aggregation.
+## 📊 Currently Learning
 
-Day 12: Mastered Relational Division in SQL and Interval Merging for temporal data.
+- 🟡 Power BI — DAX, data modelling, report design
+- 🟡 Advanced SQL — query optimisation, window functions
+- 🟡 Tableau — dashboard design and calculated fields
+- 🟡 AWS QuickSight — for Amazon BI roles
 
-Day 13: Project Launch - Built 'Sentinel' Anomaly Detection Engine. Applied sliding window logic to real-time stream simulation.
+---
 
-Built a Python traffic simulator for Project Sentinel. Integrated Advanced SQL pattern matching (Relational Division) for threat detection. [2026-03-07]
+## 🤝 Connect With Me
 
-Day 14: Engineered the 'Project Sentinel' Engine. Refined the anomaly detection logic using Pandas for high-throughput log parsing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharath_T_E-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sharath-t-e-b4b318226)
+[![LeetCode](https://img.shields.io/badge/LeetCode-latheshwar1412-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/latheshwar1412)
+[![Email](https://img.shields.io/badge/Email-Latheshwar1412@gmail.com-D14836?style=flat&logo=gmail)](mailto:Latheshwar1412@gmail.com)
 
-Day 15: Implemented advanced filtering logic to categorize threats by severity levels (Low, Medium, High, Critical).
+---
 
-Day 16: Automated daily threat report generation in CSV format, ensuring data persistence for long-term security auditing.
-
-Day 17: Visualized security intelligence using Matplotlib. Built a distribution dashboard to identify high-risk IP sources at a glance.
-
-Day 18: Developed a Real-Time Alerting System. Created `alert_system.py` to trigger immediate terminal warnings for 'Critical' severity threats.
-
-Day 19: Built an automated HTML Reporting Engine. Integrated Bootstrap for dynamic web-based security dashboards.
-
-
+<p align="center">
+  <i>"Turning raw data into decisions that move businesses forward."</i>
+</p>
