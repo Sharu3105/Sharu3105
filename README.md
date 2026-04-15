@@ -49,9 +49,7 @@ This repository showcases end-to-end data analytics projects involving data clea
 - Excel (Advanced: PivotTables, Power Query)
 - Tableau (Basic)
 - BigQuery (Intermediate)
-```
 
----
 
 ## Projects
 
@@ -98,7 +96,6 @@ Built an end-to-end e-commerce analytics solution using Python (Pandas) and Powe
 - Collaborated with cross-functional teams (logistics, warehouse, tech) to align reporting metrics
 - Delivered insights and reports used by senior stakeholders for decision-making
 
----
 
 ## Education
 
@@ -108,7 +105,6 @@ Mangalore Institute of Technology & Engineering · 2020–2024
 **Areas of Study**: Linear Algebra, Statistical Inference, 
 Probability, Optimisation
 
----
 
 ## Certifications
 
@@ -117,7 +113,7 @@ Probability, Optimisation
 - 📜 Advanced SQL — HackerRank
 - 📜 Python for Data Analysis — Kaggle
 
----
+
 
 <p align="center">
   <i>Open to Data Analyst · Business Analyst · BI Analyst roles</i><br>
