@@ -76,7 +76,8 @@ Built an end-to-end e-commerce analytics solution using Python (Pandas) and Powe
 
 **Tech Stack**
   Python, Pandas, Power BI, Excel, SQL
- 🔗 [View Project](#https://github.com/Sharu3105/ecommerce-analytics-project)
+
+ 🔗 [View Project](https://github.com/Sharu3105/ecommerce-analytics-project)
 
 
 
@@ -92,7 +93,8 @@ Developed a customer segmentation model using Python and SQL to classify custome
 
 **Tech Stack**
   Python, Pandas, SQL, Power BI
-  🔗 [View Project](#https://github.com/Sharu3105/customer-segmentation-project)
+ 
+  🔗 [View Project](https://github.com/Sharu3105/customer-segmentation-project)
   
 
 ## Experience
