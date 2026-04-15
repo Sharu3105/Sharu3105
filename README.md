@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/sharath-t-e-b4b318226">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/u/latheshwar1412">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode"/>
-  </a>
   <a href="mailto:Latheshwar1412@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail"/>
   </a>
