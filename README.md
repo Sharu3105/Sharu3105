@@ -53,9 +53,9 @@ decisions that move the business forward.
 ## Tech Stack
 ```text
 SQL          ████████████████████  Advanced — Window Functions, CTEs, JOINs
-Python       ████████████████░░░░  Pandas, NumPy, Matplotlib, Seaborn
+Python       ████████████████████  Pandas, NumPy, Matplotlib, Seaborn
 Excel        ████████████████████  Advanced — PivotTables, Power Query, Macros
-Power BI     ████████████░░░░░░░░  DAX, Data Modelling, Report Design
+Power BI     ████████████████░░░░  DAX, Data Modelling, Report Design
 Google Sheets████████████████████  Advanced — Dashboards, Automation
 Tableau      ████████████░░░░░░░░  Dashboard Design, Calculated Fields
 BigQuery     ████████░░░░░░░░░░░░  SQL Analytics on large datasets
@@ -64,52 +64,41 @@ BigQuery     ████████░░░░░░░░░░░░  SQL A
 ---
 
 ## Projects
+**📊 E-commerce Sales Analytics**
 
-### 📊 SQL Business Case Study — Retail & E-Commerce Analytics
-`PostgreSQL` `Window Functions` `CTEs` `Business Intelligence`
+Built an end-to-end e-commerce analytics solution using Python (Pandas) and Power BI to analyze sales performance and revenue trends.
 
-Comprehensive SQL analysis answering 25+ real business questions on a 
-retail database — revenue trends, customer segmentation, SLA performance, 
-rolling averages, and operational KPIs.
+- Cleaned and processed raw order data using Python
+- Calculated total revenue and identified top-performing product categories
+- Analyzed regional performance to identify high-revenue states
+- Built an interactive Power BI dashboard for business insights
+- Derived actionable insights to support data-driven decision making
 
-Every query includes business context, logic explanation, and output 
-interpretation — not just raw SQL.
+**Tech Stack**
+  Python, Pandas, Power BI, Excel, SQL
+ 🔗 [View Project](#https://github.com/Sharu3105/ecommerce-analytics-project)
 
-🔗 [View Project](#) ← replace with your repo link when built
 
----
 
-### 📈 E-Commerce Funnel & Cohort Analysis
-`Python` `Pandas` `Seaborn` `Jupyter Notebook`
+**📊 Customer Segmentation Analysis**
 
-End-to-end analysis of a 50,000+ session e-commerce dataset identifying 
-funnel drop-off points, conversion bottlenecks, and 6-week cohort retention 
-patterns.
+Developed a customer segmentation model using Python and SQL to classify customers based on revenue and purchase behavior.
 
-Findings translated into concrete business recommendations — not just charts.
+- Performed data cleaning and preprocessing on transactional dataset
+- Calculated customer-level metrics such as total revenue and order count
+- Segmented customers into High, Medium, and Low value groups
+- Built a Power BI dashboard to visualize customer distribution and KPIs
+- Generated business insights to improve customer targeting and retention
 
-🔗 [View Project](#) ← replace with your repo link when built
-
----
-
-### 🗂️ Operations KPI Dashboard
-`Power BI` `SQL` `DAX` `Excel`
-
-Full-stack KPI dashboard tracking fulfilment rate, SLA breach percentage, 
-TAT by zone, and vendor performance — modelled after real e-commerce 
-operations reporting at scale.
-
-Includes automated data refresh, drill-through views, and executive summary 
-page.
-
-🔗 [View Project](#) ← replace with your repo link when built
-
----
+**Tech Stack**
+  Python, Pandas, SQL, Power BI
+  🔗 [View Project](#https://github.com/Sharu3105/customer-segmentation-project)
+  
 
 ## Experience
 
-**Data Analyst — Flipkart India Private Limited**
-`Sep 2024 – Present` · Bengaluru, Karnataka
+**Data Analyst (Operational analytics & Business Intelligence) — Flipkart India Private Limited**
+`Sep 2024 – Apr 2026` · Bengaluru, Karnataka
 
 Working within Flipkart's operations analytics function — responsible for
 KPI reporting, dashboard maintenance, root cause analysis, and stakeholder
@@ -140,3 +129,5 @@ Probability, Optimisation
   <i>Open to Data Analyst · Business Analyst · BI Analyst roles</i><br>
   <i>Google · Microsoft · Amazon</i>
 </p>
+
+
