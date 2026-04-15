@@ -1,4 +1,5 @@
 <h1 align="center">Sharath T E</h1>
+<h2 align="center">Turning data into business decisions | SQL • Python • Power BI</h2>
 
 <p align="center">
   <b>Data Analyst · Flipkart India Private Limited</b><br>
