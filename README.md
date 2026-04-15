@@ -18,6 +18,10 @@
 </p>
 
 ---
+# 📊 Data Analytics Projects Portfolio
+
+This repository showcases end-to-end data analytics projects involving data cleaning, analysis, visualization, and business insights using Python, SQL, and Power BI.
+
 
 ## About Me
 
@@ -68,11 +72,11 @@ BigQuery     ████████░░░░░░░░░░░░  SQL A
 
 Built an end-to-end e-commerce analytics solution using Python (Pandas) and Power BI to analyze sales performance and revenue trends.
 
-- Cleaned and processed raw order data using Python
-- Calculated total revenue and identified top-performing product categories
-- Analyzed regional performance to identify high-revenue states
-- Built an interactive Power BI dashboard for business insights
-- Derived actionable insights to support data-driven decision making
+- Cleaned and processed raw order data using Python (Pandas)
+- Analyzed ₹1.1Cr+ revenue dataset to identify top-performing categories
+- Identified Maharashtra and Karnataka as highest revenue-generating states
+- Built an interactive Power BI dashboard to track sales performance
+- Delivered actionable insights to support business decision-making
 
 **Tech Stack**
   Python, Pandas, Power BI, Excel, SQL
@@ -85,11 +89,11 @@ Built an end-to-end e-commerce analytics solution using Python (Pandas) and Powe
 
 Developed a customer segmentation model using Python and SQL to classify customers based on revenue and purchase behavior.
 
-- Performed data cleaning and preprocessing on transactional dataset
-- Calculated customer-level metrics such as total revenue and order count
-- Segmented customers into High, Medium, and Low value groups
+- Cleaned and processed transactional dataset using Python
+- Calculated customer-level metrics including total revenue and order count
+- Segmented 4000+ customers into High, Medium, and Low value groups
 - Built a Power BI dashboard to visualize customer distribution and KPIs
-- Generated business insights to improve customer targeting and retention
+- Provided business recommendations to improve customer retention
 
 **Tech Stack**
   Python, Pandas, SQL, Power BI
