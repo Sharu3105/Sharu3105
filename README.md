@@ -102,7 +102,7 @@ Built an end-to-end e-commerce analytics solution using Python (Pandas) and Powe
 **B.E. Aeronautical Engineering**
 Mangalore Institute of Technology & Engineering · 2020–2024
 
-**Areas of Study**: Linear Algebra, Statistical Inference, 
+**Areas of study**: Linear Algebra, Statistical Inference, 
 Probability, Optimisation
 
 
