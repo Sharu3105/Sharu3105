@@ -1,6 +1,5 @@
 <h1 align="center">Sharath T E</h1>
-<h2 align="center">Turning data into business decisions | SQL • Python • Power BI
-Specializing in E-commerce & Operational Analytics</h2>
+<h3 align="center">Turning data into business decisions | SQL • Python • Power BI</h3>
 
 <p align="center">
   <b>Data Analyst · Flipkart India Private Limited</b><br>
