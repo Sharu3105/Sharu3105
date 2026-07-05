@@ -2,7 +2,7 @@
 <h3 align="center">Turning data into business decisions | SQL • Python • Power BI</h3>
 
 <p align="center">
-  <b>Data Analyst · Flipkart India Private Limited</b><br>
+  <b>Data Analyst · Ex-Flipkart India Private Limited</b><br>
   Bengaluru, Karnataka
 </p>
 
